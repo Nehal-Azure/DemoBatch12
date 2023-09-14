@@ -24,4 +24,13 @@ public class FirstTest1 {
 
 
     }
+    @Test
+    public void testDemo2(){
+
+        System.out.println("This is demo test 2 statment");
+
+
+
+
+    }
 }
