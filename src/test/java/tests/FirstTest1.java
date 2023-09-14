@@ -60,4 +60,13 @@ public class FirstTest1 {
 
 
     }
+    @Test
+    public void testDemo6(){
+
+        System.out.println("This is demo test 6 added via remote");
+
+
+
+
+    }
 }
